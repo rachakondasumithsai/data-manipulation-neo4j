@@ -1,0 +1,61 @@
+ParkName,State,partySize,BookingType,RateType,Equipment
+Dollar Lake,NS ,11,CampsitePermit,Full,ST
+Amherst Shore,NS ,6,CampsitePermit,Full,LT40ft
+Caribou Munroes,NS ,9,CampsitePermit,Full,Tents
+Salsman,NS ,6,CampsitePermit,Full,Tents
+Five Islands,NS ,7,CampsitePermit,Full,ST
+Graves Island,NS ,35,CampsitePermit,Full,Tents
+Rissers Beach,NS ,8,CampsitePermit,Full,Tents
+Laurie,NS ,8,CampsitePermit,Full,LT20ft
+Smileys,NS ,6,CampsitePermit,Full,LT20ft
+Blomidon,NS ,10,CampsitePermit,Full,Tents
+Ellenwood Lake,NS ,12,CampsitePermit,Full,LT30ft
+Thomas Raddall,NS ,8,CampsitePermit,Full,ST
+Mira River,NS ,9,CampsitePermit,Full,ST
+Whycocomagh,NS ,6,CampsitePermit,Full,LT20ft
+Porters Lake,NS ,7,CampsitePermit,Full,ST
+Battery,NS ,9,CampsitePermit,Full,Tents
+The Islands,NS ,6,CampsitePermit,Full,LT30ft
+Valleyview,NS ,11,CampsitePermit,Full,ST
+Cape Chignecto,NS ,14,BackcountryPermit,Full,ST
+Boylston,NS ,6,CampsitePermit,Full,Tents
+,,,,,
+,,,,,
+Amherst Shore,NS ,6,CampsitePermit,Full,LT30ft
+Amherst Shore,NS ,6,CampsitePermit,Full,Tents
+Amherst Shore,NS ,6,CampsitePermit,Full,LT20ft
+Amherst Shore,NS ,6,CampsitePermit,Full,ST
+,,,,,
+Salsman,NS ,6,CampsitePermit,Full,LT30ft
+Salsman,NS ,6,CampsitePermit,Full,ST
+Salsman,NS ,6,CampsitePermit,Full,LT20ft
+Salsman,NS ,6,CampsitePermit,Senior,ST
+,,,,,
+Five Islands,NS ,7,CampsitePermit,Full,Tents
+,,,,,
+Rissers Beach,NS ,8,CampsitePermit,Full,ST
+,,,,,
+Laurie,NS ,8,CampsitePermit,Full,Tents
+,,,,,
+Smileys,NS ,6,CampsitePermit,Full,ST
+Smileys,NS ,6,CampsitePermit,Full,LT30ft
+Smileys,NS ,6,CampsitePermit,Full,Tents
+Smileys,NS ,6,CampsitePermit,Senior,Tents
+Smileys,NS ,6,CampsitePermit,Full,LT40ft
+Smileys,NS ,6,CampsitePermit,Veteran,LT20ft
+Smileys,NS ,6,CampsitePermit,Veteran,LT40ft
+Smileys,NS ,6,CampsitePermit,Full,Greater than 40ft
+Smileys,NS ,6,CampsitePermit,Senior,LT30ft
+,,,,,
+Whycocomagh,NS ,6,CampsitePermit,Full,LT30ft
+Whycocomagh,NS ,6,CampsitePermit,Full,Tents
+Whycocomagh,NS ,6,YurtPermit,Full,Tents
+Whycocomagh,NS ,6,CampsitePermit,Full,ST
+Whycocomagh,NS ,6,YurtPermit,Senior,Tents
+,,,,,
+The Islands,NS ,6,CampsitePermit,Full,Tents
+The Islands,NS ,6,CampsitePermit,Full,ST
+The Islands,NS ,6,CampsitePermit,Full,LT20ft
+,,,,,
+Boylston,NS ,6,CampsitePermit,Full,LT40ft
+Boylston,NS ,6,CampsitePermit,Full,LT20ft
