@@ -27,13 +27,13 @@ This dataset contains camping reservation information of parks in different coun
 * In this file4.csv, I have used MS Excel tool to remove duplicates and selected only 20 unique parks with maximum party size.
 * I have loaded updated file4.csv into graph database with prescribed attributes using Cypher query language. Each park is considered as a node here. The below image demonstrates this step.
 <a href="https://ibb.co/YtSfLc4"><img src="https://i.ibb.co/gD8tRSb/image.png" alt="image" border="0"></a>
-* All parks with similar RateType are connected by creating a relationship NeighbourByRate. The following image is a demonstration.
+* All parks with similar RateType are connected by creating a relationship NeighbourByRate. The following image is a demonstration.  
 <a href="https://ibb.co/hXH6zyd"><img src="https://i.ibb.co/TKRf3k0/image.png" alt="image" border="0"></a>
-* All parks with identical State are connected by creating a relationship Same_State. The following image is a demonstration
+* All parks with identical State are connected by creating a relationship Same_State. The following image is a demonstration.  
 <a href="https://ibb.co/swjjLnK"><img src="https://i.ibb.co/Kq66Cd2/image.png" alt="image" border="0"></a>
-* All parks with same Equipment are connected by creating a relationship NeighbourByEquipment. The below image is a demonstration
+* All parks with same Equipment are connected by creating a relationship NeighbourByEquipment. The below image is a demonstration  
 <a href="https://ibb.co/R3fMbS8"><img src="https://i.ibb.co/gSNX97Y/image.png" alt="image" border="0"></a>
-* The park which is having highest party size is displayed. Below image is a demonstration. Graves Island is the park that is having highest party size value 35.
+* The park which is having highest party size is displayed. Below image is a demonstration. Graves Island is the park that is having highest party size value 35.  
 <a href="https://ibb.co/7YvSD7Z"><img src="https://i.ibb.co/BzLfJ8Q/image.png" alt="image" border="0"></a>
 * The whole graph looks like the following image.
 <a href="https://ibb.co/z4hPMsx"><img src="https://i.ibb.co/crc2BJ3/image.png" alt="image" border="0"></a>
